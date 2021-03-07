@@ -1,4 +1,4 @@
-import { isEmpty } from './7-is-empty'
+ import { isEmpty } from './7-is-empty'
 
 describe('7-is-empty', () => {
   it('should return true for an empty string', () => {
